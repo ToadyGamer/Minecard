@@ -1,4 +1,4 @@
-# Minecard
+# Minecard C#
 
 ## Description
 Minecard est un jeu sous unity 3D qui est un simple jeu de cartes avec comme thème minecraft.
